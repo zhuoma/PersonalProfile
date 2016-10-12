@@ -1,0 +1,45 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,beijin_jpg,huadong_png,tubiao_png,bj_jpeg",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "beijin_jpg",
+			"type": "image",
+			"url": "assets/beijin.jpg"
+		},
+		{
+			"name": "huadong_png",
+			"type": "image",
+			"url": "assets/huadong.png"
+		},
+		{
+			"name": "tubiao_png",
+			"type": "image",
+			"url": "assets/tubiao.png"
+		},
+		{
+			"name": "bj_jpeg",
+			"type": "image",
+			"url": "assets/bj.jpeg"
+		}
+	]
+}
